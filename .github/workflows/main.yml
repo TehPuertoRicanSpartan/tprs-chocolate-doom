@@ -3,14 +3,14 @@ name: Continuous Integration
 on:
   push:
     branches:
-      - "master"
+      - "widescreen"
     tags:
       - "*"
     paths-ignore:
       - "**.md"
   pull_request:
     branches:
-      - "master"
+      - "widescreen"
     paths-ignore:
       - "**.md"
   workflow_dispatch:

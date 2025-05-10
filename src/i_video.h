@@ -24,7 +24,7 @@
 
 // Screen width and height.
 
-#define SCREENWIDTH  320
+#define SCREENWIDTH  428
 #define SCREENHEIGHT 200
 
 // Screen height used when aspect_ratio_correct=true.
